@@ -1,0 +1,63 @@
+body {
+  background-color: rgb(190, 233, 219);
+  width: 95%;
+}
+
+h1 {
+  margin: 5px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.section-pattern {
+  height: auto;
+  width: 90%;
+  justify-content: space-evenly;
+  display: flex;
+  align-items: center;
+  margin: auto;
+  padding: 10px;
+}
+
+.hero-pattern {
+  padding: 10px;
+  background-color: bisque;
+}
+
+.hero-logo {
+  height: 200px;
+  width: 200px;
+}
+
+.card-pattern {
+  padding: 10px;
+  background-color: aqua;
+}
+
+.div-card {
+  margin: 5px;
+  justify-content: space-between;
+  display: flex;
+}
+
+.footer-pattern {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.ig-logo {
+  margin: 5px;
+  height: 20px;
+  width: 20px;
+  align-items: center;
+  display: block;
+  justify-content: center;
+}
+
+.autor {
+  align-items: center;
+  display: block;
+  margin: 5px;
+}
